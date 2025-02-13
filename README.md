@@ -1,0 +1,1 @@
+This repository contains a Groovy code snippet demonstrating an uncommon error related to loop calculations. The script intends to create an array where even numbers are multiplied by 2 and odd numbers by 3. However, the result array contains unexpected values. The solution file provides a corrected version of the code that addresses this error.
